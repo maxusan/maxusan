@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @maxusan
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning Clean Architecture and Retrofit
