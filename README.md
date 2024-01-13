@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Android software developer from Ukraine with 1.5 years of experience.<br>🌱 I’m currently learning architecture patterns and alghorithms.
+🔭 I’m Android software developer from Ukraine with 3 years of experience.
 
 
 ## 🌐 Socials:
